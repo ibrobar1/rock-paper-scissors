@@ -1,0 +1,29 @@
+
+#full{height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(black 33.33%, red 33.33%, red 66.66%, green 66.66%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin: 0px;}
+#batman {
+	color:white;
+	position: relative; 
+	top: 40px;
+	left: 30px;
+}
+#superman{
+	position: relative;
+	color: white;
+	text-align: center;
+  top: 100px;
+	left: -10px;
+}
+#groot{
+	position: relative;
+	color: white;
+	text-align: right;
+	top :165px;
+left: -20px;
+  
+}
+
