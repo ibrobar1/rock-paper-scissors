@@ -8,21 +8,30 @@
 #batman {
 	color:white;
 	position: relative; 
-	top: 40px;
+    height: 10vh;
+    line-height: 10vh;
+    font-size: 5vh;
+	top: 70px;
 	left: 30px;
 }
 #superman{
 	position: relative;
 	color: white;
 	text-align: center;
-  top: 100px;
+	height: 10vh;
+    line-height: 10vh;
+    font-size: 5vh;
+  top: 170px;
 	left: -10px;
 }
 #groot{
 	position: relative;
 	color: white;
 	text-align: right;
-	top :165px;
+	height: 10vh;
+    line-height: 10vh;
+    font-size: 5vh;
+	top :290px;
 left: -20px;
   
 }
